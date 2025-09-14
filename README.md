@@ -40,10 +40,10 @@
 <!-- Socials -->
 ### 🌍 Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="www.linkedin.com/in/vasanthapriyan2">
+  <a href="https://www.linkedin.com/in/vasanthapriyan2/" target="www.linkedin.com/in/vasanthapriyan2">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/YOUR-LEETCODE" target="https://leetcode.com/u/Priyan2/">
+  <a href="https://leetcode.com/u/Priyan2/" target="https://leetcode.com/u/Priyan2/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
