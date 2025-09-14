@@ -53,8 +53,8 @@
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Vasantha-priyan&show_icons=true&theme=github_dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Vasantha-priyan&layout=compact&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vasantha-priyan&show_icons=true&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasantha-priyan&layout=compact&theme=github_dark" height="180"/>
 </p>
 
 <p align="center">
