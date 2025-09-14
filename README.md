@@ -58,11 +58,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Vasantha-priyan&theme=github-dark-blue" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasantha-priyan&theme=github-dark-blue" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=https://github.com/Vasantha-priyan&theme=darkhub&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Vasantha-priyan&theme=darkhub&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -70,5 +70,4 @@
 <!-- Footer -->
 <p align="center">💡 "Code. Learn. Innovate." 💡</p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=https://github.com/Vasantha-priyan&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
