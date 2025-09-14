@@ -54,6 +54,7 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vasantha-priyan&show_icons=true&theme=github_dark" height="180"/>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasantha-priyan&layout=compact&theme=github_dark" height="180"/>
 </p>
 
